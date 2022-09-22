@@ -1,2 +1,2 @@
-# personal-website
-a riyandom website, the second personal one
+# Personal-Website
+A riyandom website portfolio website.
